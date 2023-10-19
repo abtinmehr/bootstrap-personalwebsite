@@ -1,0 +1,28 @@
+header {
+    border: 1px solid black;
+    background-color: rgb(236, 236, 236);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+main {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+nav {
+    margin: 20px;
+}
+
+article {
+    margin: 20px;
+}
+
+footer {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    background-color: rgb(236, 236, 236);
+
+    padding: 20px;
+}
